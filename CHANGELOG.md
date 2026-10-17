@@ -13,7 +13,7 @@ A metadata and documentation patch. No code or API changes.
 ### Changed
 
 - Repository and homepage links in `gateflow` and `gateflow-macros` now point
-  to `github.com/cybercore-tech/gateflow`. The 0.1.0 packages still linked the
+  to `github.com/cybercoretech/gateflow`. The 0.1.0 packages still linked the
   archived `darkstardevx/gateflow` repository on crates.io.
 - The README and `scripts/install.sh` default to `cybercore-tech/gateflow`.
 
